@@ -1,0 +1,100 @@
+
+table{
+	align-content: center;
+	border-color: red;
+}
+
+body
+{
+	background-color: palevioletred;
+	align: center;
+}
+
+
+#chicken
+{
+	font-size: 30px;
+	font-family: serif;
+	color: black;
+	margin: 30px;
+	
+	
+
+}
+#secret
+{
+	color: gold;
+	border-color: gold;
+}
+
+
+
+
+#meals
+{
+
+	margin: 20px;
+	align-content: center;
+	border: 5px solid;
+	border-color: red;
+
+
+	}
+#menu1
+{
+	margin: 20px;
+	align-content: center;
+}
+
+
+
+#menu
+{
+	color: gold;
+	border: solid;
+	border-color: red;
+}
+#menu2
+{
+	color: gold;
+	margin: 20px;
+	align-content: center;
+
+	
+}
+
+
+#img {text-align: center;}
+
+#text 
+{	text-align: center; 
+	text-color: red;
+}
+
+}
+#link
+{
+	font-family: initial;
+}
+#chickenmeals
+{
+	border: 5px solid;
+	border-color: red;
+	margin: 20px;
+}
+#secrets {
+	font-size: 30px;
+	font-family: serif;
+	color: gold;
+
+    
+  }
+
+#bottons
+{
+	border: 5px solid;
+	border-color: red;
+}
+	  
+	
+
